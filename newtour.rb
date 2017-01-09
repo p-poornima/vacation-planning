@@ -130,8 +130,7 @@ puts "On Tours Management Page"
 
 
 ##############
-# ###################
-
+s
 element_table = driver.find_element(:css,"table.xcrud-list")
 href=element_table.find_elements(:tag_name, "href")
 link=href.text
