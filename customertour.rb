@@ -52,4 +52,4 @@ signup_button.click
 account_pagetitle=driver.title
 "My Account".eql?pagetitle
 puts "On My Account Page"
-
+##################

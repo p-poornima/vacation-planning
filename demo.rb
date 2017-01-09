@@ -69,7 +69,7 @@ button.click
 
 #assert driver.is_text_present emailid
 
-####????
+####?#####s
 #usertable=driver.find_element(:id, "content")
 driver.page_source.include?emailid
 
